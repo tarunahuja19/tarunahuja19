@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ADD8&height=200&section=header&text=Tarun%20Ahuja&subtitle=Full%20Stack%20Developer&fontSize=50&fontColor=ffffff&animation=twinkle" width="100%"/>
+<img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" width="100%"/>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ADD8&height=100&section=header" width="100%"/>
 
 <table>
   <tr>
@@ -16,9 +16,11 @@
         <li>📫 <b>Contact:</b> <a href="mailto:tarunahuja199@gmail.com">tarunahuja199@gmail.com</a></li>
         <li>⚡ <b>Fun Fact:</b> ECE major turned web developer!</li>
       </ul>
-      <div align="left">
+      <br/>
+      <div align="center">
+        <b>Connect:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <a href="https://www.linkedin.com/in/tarun-ahuja-054503307/" target="_blank">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="40" alt="LinkedIn" />
+          <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="30" alt="LinkedIn" align="center" />
         </a>
       </div>
     </td>
