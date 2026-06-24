@@ -48,9 +48,9 @@ I'm an Electronics and Communication Engineering (ECE) student who fell in love 
 
 <!-- Snake Contribution Game -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tarunahuja19/tarunahuja19/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tarunahuja19/tarunahuja19/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tarunahuja19/tarunahuja19/output/github-contribution-grid-snake.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/tarunahuja19/tarunahuja19/raw/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/tarunahuja19/tarunahuja19/raw/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/tarunahuja19/tarunahuja19/raw/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
