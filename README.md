@@ -6,8 +6,7 @@
   <tr>
     <td width="60%" valign="top">
       <h2>👋 Hello, I'm Tarun!</h2>
-      <p>I am an <b>Electronics and Communication Engineering (ECE)</b> student who fell in love with building for the web! I focus on developing full-stack web applications and crafting clean, responsive, and performant user experiences.</p>
-      <p>I enjoy solving problems, learning new frameworks, and bridging the gap between engineering concepts and modern software solutions.</p>
+      <p>I am an <b>Electronics and Communication Engineering (ECE)</b> student who fell in love with building for the web!</p>
     </td>
     <td width="40%" valign="top">
       <h3>🚀 Quick Info</h3>
@@ -16,13 +15,6 @@
         <li>📫 <b>Contact:</b> <a href="mailto:tarunahuja199@gmail.com">tarunahuja199@gmail.com</a></li>
         <li>⚡ <b>Fun Fact:</b> ECE major turned web developer!</li>
       </ul>
-      <br/>
-      <div align="center">
-        <b>Connect:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/tarun-ahuja-054503307/" target="_blank">
-          <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" width="30" alt="LinkedIn" align="center" />
-        </a>
-      </div>
     </td>
   </tr>
 </table>
