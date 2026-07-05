@@ -31,6 +31,7 @@
       <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="36" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript" height="36" />
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" height="36" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" height="36" />
     </td>
   </tr>
   <tr>
@@ -72,12 +73,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/tarunahuja19">
-        <img src="https://github-readme-stats.vercel.app/api?username=tarunahuja19&show_icons=true&theme=github_dark" alt="Tarun's GitHub Stats" />
+        <img src="https://github-stats-extended.vercel.app/api?username=tarunahuja19&show_icons=true&theme=github_dark" alt="Tarun's GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/tarunahuja19">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarunahuja19&layout=compact&theme=github_dark" alt="Tarun's Top Languages" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tarunahuja19&layout=compact&theme=github_dark" alt="Tarun's Top Languages" />
       </a>
     </td>
   </tr>
