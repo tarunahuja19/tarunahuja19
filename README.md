@@ -6,14 +6,14 @@
   <tr>
     <td width="60%" valign="top">
       <h2>👋 Hello, I'm Tarun!</h2>
-      <p>I am an <b>Electronics and Communication Engineering (ECE)</b> student who fell in love with building for the web!</p>
+      <p>I am a <b>Computer Science and Engineering (CSE)</b> student focused on building scalable backend architectures, distributed systems, and high-performance web applications.</p>
     </td>
     <td width="40%" valign="top">
       <h3>🚀 Quick Info</h3>
       <ul>
-        <li>🌱 <b>Learning:</b> React.js, Node.js, Express & MongoDB</li>
+        <li>🌱 <b>Focus:</b> Backend Systems, Distributed Architecture & Cloud</li>
         <li>📫 <b>Contact:</b> <a href="mailto:tarunahuja199@gmail.com">tarunahuja199@gmail.com</a></li>
-        <li>⚡ <b>Fun Fact:</b> ECE major turned web developer!</li>
+        <li>⚡ <b>Interests:</b> High-throughput services & system design</li>
       </ul>
     </td>
   </tr>
@@ -25,42 +25,51 @@
 
 <table>
   <tr>
-    <td width="20%"><b>Languages</b></td>
+    <td width="22%"><b>Languages</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=c" alt="C" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=cpp" alt="C++" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=js" alt="JavaScript" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=python" alt="Python" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=rust" alt="Rust" height="36" />
+      <img src="https://skillicons.dev/icons?i=c" alt="C" height="36" />
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="36" />
+      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="36" />
+      <img src="https://skillicons.dev/icons?i=python" alt="Python" height="36" />
+      <img src="https://skillicons.dev/icons?i=rust" alt="Rust" height="36" />
+      <img src="https://skillicons.dev/icons?i=lua" alt="Lua" height="36" />
     </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=react" alt="React" height="36" />
+      <img src="https://skillicons.dev/icons?i=react" alt="React" height="36" />
     </td>
   </tr>
   <tr>
     <td><b>Backend</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" alt="NodeJS" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=express" alt="ExpressJS" height="36" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="NodeJS" height="36" />
+      <img src="https://skillicons.dev/icons?i=express" alt="ExpressJS" height="36" />
     </td>
   </tr>
   <tr>
-    <td><b>Databases</b></td>
+    <td><b>Databases & Cache</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongo" alt="MongoDB" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres" alt="PostgreSQL" height="36" />
+      <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="36" />
+      <img src="https://skillicons.dev/icons?i=mongo" alt="MongoDB" height="36" />
+      <img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="36" />
     </td>
   </tr>
   <tr>
-    <td><b>Tools & Others</b></td>
+    <td><b>Observability</b></td>
     <td>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="Git" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="GitHub" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" alt="Postman" height="36" />
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker" alt="Docker" height="36" />
+      <img src="https://skillicons.dev/icons?i=prometheus" alt="Prometheus" height="36" />
+      <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git" alt="Git" height="36" />
+      <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="36" />
+      <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="36" />
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="36" />
     </td>
   </tr>
 </table>
